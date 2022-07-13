@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cardiocare</string>
+    <string name="search">Search</string>
+    <string name="connect">Connect</string>
+    <string name="status">status</string>
+    <string name="num1">9188428965</string>
+    <string name="num2">9847960856</string>
+    <string name="num3">6238984520</string>
+    <string name="age">21</string>
+    <string name="gender">1</string>
+</resources>

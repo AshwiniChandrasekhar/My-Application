@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="search" type="id"/>
+    <item name="connect" type="id"/>
+    <item name="listview" type="id"/>
+    <item name="txtReceive" type="id"/>
+    <item name="viewScroll" type="id"/>
+    <item name="chkReceiveText" type="id"/>
+    <item name="chkScroll" type="id"/>
+    <item name="btnClearInput" type="id"/>
+    <item name="action_settings" type="id"/>
+    <item name="statuses" type="id"/>
+</resources>
